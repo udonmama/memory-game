@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../my-movie-list"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "翻牌遊戲"
+	}
+}
